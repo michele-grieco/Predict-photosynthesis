@@ -14,6 +14,7 @@ The dataset includes various features such as:
 - LEF (target variable)
 
 Data preprocessing included normalization, manual feature selection, and determination of feature importance using Random Forest.
+Data are not available here because not yet published in a peer-reviewed journal.
 
 ## Models and Methodology
 Several ensemble models were employed to predict LEF:
@@ -40,8 +41,6 @@ The performance of various models in predicting Linear Electron Flow (LEF) was e
 | Neural Network| 17.138    | 0.148     | 13.374    |
 
 
-
-Data are not available here because not yet published in a peer-reviewed journal.
 
 ## Acknowledgments
 
