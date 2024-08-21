@@ -1,7 +1,7 @@
 # Predicting Photosynthesis with Ensemble Models and Neural Networks
 
 ## Overview
-This project focuses on predicting the photosynthesis rate, measured as Linear Electron Flow (LEF), in barley plants. The data was collected from a field experiment involving 127 genotypes, conducted in 2017 at the IPK Institute in Germany. This analysis is aimed at identifying key factors influencing photosynthesis and developing predictive models to estimate LEF under field conditions.
+This project focuses on predicting the photosynthesis rate, measured as Linear Electron Flow (LEF), in barley plants. The data was collected from a field experiment involving 127 genotypes, conducted in 2017 at the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) in Germany. This analysis is aimed at identifying key factors influencing photosynthesis and developing predictive models to estimate LEF under field conditions.
 
 ## Dataset
 The dataset includes various features such as:
